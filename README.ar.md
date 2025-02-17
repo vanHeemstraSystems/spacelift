@@ -18,7 +18,7 @@ Spacelift
 
 **ملخص تنفيذي**
 
-Orchestration that integrates with your existing tooling. Overcome automation tool sprawl. Connect to and orchestrate all of your infrastructure tooling. IaC, VCS, configuration management, observability tools, control solutions, and cloud providers – Spacelift connects to all of them to help you deliver secure infrastructure faster.
+تزامن يتكامل مع أدواتك الحالية. التغلب على أداة الأتمتة الامتداد. تواصل مع وتنظيم جميع أدوات البنية التحتية الخاصة بك. IAC و VCS وإدارة التكوين وأدوات الملاحظة وحلول التحكم ومقدمي الخدمات السحابية - يتصل Spacelift جميعًا بمساعدتك في تقديم بنية تحتية آمنة بشكل أسرع.
 
 ولدت مع[ريتر](https://app.rytr.me)
 
