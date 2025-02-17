@@ -1,4 +1,4 @@
-间距
+spacelift
 
 # 间距
 
@@ -18,7 +18,7 @@
 
 **执行摘要**
 
-与您现有工具集成的管弦乐队。克服自动化工具蔓延。连接并协调所有基础设施工具。 IAC，VCS，配置管理，可观察性工具，控制解决方案和云提供商 -  Spacelift连接到所有这些，以帮助您更快地交付安全的基础架构。
+Orchestration that integrates with your existing tooling. Overcome automation tool sprawl. Connect to and orchestrate all of your infrastructure tooling. IaC, VCS, configuration management, observability tools, control solutions, and cloud providers – Spacelift connects to all of them to help you deliver secure infrastructure faster.
 
 生成[ritr](https://app.rytr.me)
 
