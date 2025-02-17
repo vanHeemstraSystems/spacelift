@@ -20,13 +20,13 @@
 
 與您現有工具集成的管弦樂隊。克服自動化工具蔓延。連接並協調所有基礎設施工具。 IAC，VCS，配置管理，可觀察性工具，控制解決方案和雲提供商 -  Spacelift連接到所有這些，以幫助您更快地交付安全的基礎架構。
 
-生成[ritr](https://app.rytr.me)
+生成[Rytr](https://app.rytr.me)
 
 ## 100-簡介
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200-要求
 
 看[README.md](./200/README.md)
 
