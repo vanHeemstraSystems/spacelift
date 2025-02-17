@@ -2,7 +2,7 @@ Weltraum
 
 # Weltraum
 
-> Orchestrate Terraform, OpenTofu, Ansible, and more to deliver secure, cost-effective, and high-performance infrastructure. Fast.
+> Orchestrieren Sie Terraform, Openentofu, Ansible und mehr, um eine sichere, kostengünstige und leistungsstarke Infrastruktur zu liefern. Schnell.
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ Weltraum
 
 **Zusammenfassung**
 
-Orchestrierung, die sich in Ihr vorhandenes Werkzeug integriert. Überwinden Sie das Automatisierungswerkzeug aus. Stellen Sie alle Ihre Infrastrukturwerkzeuge an und orchestrieren Sie sie. IAC, VCS, Konfigurationsmanagement, Observierbarkeitstools, Steuerlösungen und Cloud -Anbieter - Spacelift stellt eine Verbindung zu allen her, um eine sichere Infrastruktur schneller zu liefern.
+Orchestration that integrates with your existing tooling. Overcome automation tool sprawl. Connect to and orchestrate all of your infrastructure tooling. IaC, VCS, configuration management, observability tools, control solutions, and cloud providers – Spacelift connects to all of them to help you deliver secure infrastructure faster.
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
