@@ -1,8 +1,8 @@
-repository-name
+間距
 
-# 存儲庫名稱
+# 間距
 
-> 板條
+> 編排Terraform，Opentofu，Ansible等，以提供安全，成本效益和高性能的基礎設施。快速地。
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-name
 
 **執行摘要**
 
-文字
+與您現有工具集成的管弦樂隊。克服自動化工具蔓延。連接並協調所有基礎設施工具。 IAC，VCS，配置管理，可觀察性工具，控制解決方案和雲提供商 -  Spacelift連接到所有這些，以幫助您更快地交付安全的基礎架構。
 
 生成[ritr](https://app.rytr.me)
 
@@ -26,7 +26,7 @@ repository-name
 
 看[README.md](./100/README.md)
 
-## 200-要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
