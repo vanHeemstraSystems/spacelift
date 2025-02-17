@@ -1,8 +1,8 @@
-repository-naam
+spacelift
 
-# Repository -naam
+# Spacelift
 
-> Sluglijn
+> Orchestreer Terraform, OpenTofu, Ansible en meer om veilige, kosteneffectieve en krachtige infrastructuur te leveren. Snel.
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-naam
 
 **Uitvoerende samenvatting**
 
-Tekst
+Orchestration that integrates with your existing tooling. Overcome automation tool sprawl. Connect to and orchestrate all of your infrastructure tooling. IaC, VCS, configuration management, observability tools, control solutions, and cloud providers – Spacelift connects to all of them to help you deliver secure infrastructure faster.
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
