@@ -18,7 +18,7 @@
 
 **कार्यकारी सारांश**
 
-Orchestration that integrates with your existing tooling. Overcome automation tool sprawl. Connect to and orchestrate all of your infrastructure tooling. IaC, VCS, configuration management, observability tools, control solutions, and cloud providers – Spacelift connects to all of them to help you deliver secure infrastructure faster.
+ऑर्केस्ट्रेशन जो आपके मौजूदा टूलिंग के साथ एकीकृत होता है। ऑटोमेशन टूल फैलाव को दूर करें। अपने सभी इन्फ्रास्ट्रक्चर टूलिंग के सभी को कनेक्ट करें और ऑर्केस्ट्रेट करें। IAC, VCS, कॉन्फ़िगरेशन प्रबंधन, अवलोकन उपकरण, नियंत्रण समाधान, और क्लाउड प्रदाता - Spacelift उन सभी से जुड़ता है जो आपको सुरक्षित बुनियादी ढांचे को तेजी से वितरित करने में मदद करते हैं।
 
 के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
