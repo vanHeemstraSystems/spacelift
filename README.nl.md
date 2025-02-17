@@ -18,7 +18,7 @@ spacelift
 
 **Uitvoerende samenvatting**
 
-Orchestration that integrates with your existing tooling. Overcome automation tool sprawl. Connect to and orchestrate all of your infrastructure tooling. IaC, VCS, configuration management, observability tools, control solutions, and cloud providers – Spacelift connects to all of them to help you deliver secure infrastructure faster.
+Orchestratie die integreert met uw bestaande tooling. Overwin de uitgestrekte automatiseringstool. Maak verbinding met en orkestreer al uw infrastructuur tooling. IAC, VCS, configuratiebeheer, waarneembaarheidstools, besturingsoplossingen en cloudproviders - Spacelift maakt verbinding met allemaal om u te helpen een veilige infrastructuur sneller te leveren.
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
