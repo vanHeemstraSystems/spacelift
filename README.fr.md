@@ -1,8 +1,8 @@
-nom de référentiel
+spacelift
 
-# Nom de référentiel
+# Spacelift
 
-> Lisc
+> Orchestrate Terraform, OpenTofu, Ansible, and more to deliver secure, cost-effective, and high-performance infrastructure. Fast.
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ nom de référentiel
 
 **Résumé exécutif**
 
-Texte
+Orchestration qui s'intègre à votre outillage existant. Surmonter l'étalement de l'outil d'automatisation. Connectez-vous et orchestrez tous vos outils d'infrastructure. IAC, VCS, gestion de la configuration, outils d'observabilité, solutions de contrôle et fournisseurs de cloud - Spacelift se connecte à chacun d'eux pour vous aider à fournir des infrastructures sécurisées plus rapidement.
 
 Généré avec[Ritr](https://app.rytr.me)
 
