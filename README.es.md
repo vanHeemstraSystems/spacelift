@@ -18,7 +18,7 @@ spacelift
 
 **Resumen ejecutivo**
 
-Orchestration that integrates with your existing tooling. Overcome automation tool sprawl. Connect to and orchestrate all of your infrastructure tooling. IaC, VCS, configuration management, observability tools, control solutions, and cloud providers – Spacelift connects to all of them to help you deliver secure infrastructure faster.
+Orquestación que se integra con sus herramientas existentes. Superar la expansión de la herramienta de automatización. Conéctese y orquesta todas sus herramientas de infraestructura. IAC, VCS, gestión de configuración, herramientas de observabilidad, soluciones de control y proveedores de nubes: SpacElift se conecta a todos ellos para ayudarlo a ofrecer una infraestructura segura más rápido.
 
 Generado con[Ritro](https://app.rytr.me)
 
