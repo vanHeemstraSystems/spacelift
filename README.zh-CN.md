@@ -2,7 +2,7 @@ repository-name
 
 # 存储库名称
 
-> Slugline
+> 板条
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -20,9 +20,9 @@ repository-name
 
 文本
 
-生成[Rytr](https://app.rytr.me)
+Generated with [Rytr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100-简介
 
 看[README.md](./100/README.md)
 
