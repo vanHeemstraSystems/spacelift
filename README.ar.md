@@ -1,8 +1,8 @@
-اسم المستودع
+Spacelift
 
-# اسم المستودع
+# Spacelift
 
-> Slugline
+> تنسيق terraform ، opentofu ، Ansible ، وأكثر من ذلك لتقديم بنية أساسية آمنة وفعالة من حيث التكلفة وعالية الأداء. سريع.
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@
 
 **ملخص تنفيذي**
 
-نص
+Orchestration that integrates with your existing tooling. Overcome automation tool sprawl. Connect to and orchestrate all of your infrastructure tooling. IaC, VCS, configuration management, observability tools, control solutions, and cloud providers – Spacelift connects to all of them to help you deliver secure infrastructure faster.
 
 ولدت مع[ريتر](https://app.rytr.me)
 
