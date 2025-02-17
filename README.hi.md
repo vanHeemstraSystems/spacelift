@@ -1,8 +1,8 @@
-भंडार-नाम
+स्पेसलिफ्ट
 
-# भंडार नाम
+# स्पेसलिफ्ट
 
-> स्लगलाइन
+> ऑर्केस्ट्रेट टेराफॉर्म, ओपेंटोफू, एंसिबल, और अधिक सुरक्षित, लागत-प्रभावी और उच्च-प्रदर्शन बुनियादी ढांचे को वितरित करने के लिए। तेज़।
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@
 
 **कार्यकारी सारांश**
 
-मूलपाठ
+Orchestration that integrates with your existing tooling. Overcome automation tool sprawl. Connect to and orchestrate all of your infrastructure tooling. IaC, VCS, configuration management, observability tools, control solutions, and cloud providers – Spacelift connects to all of them to help you deliver secure infrastructure faster.
 
 के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
