@@ -1,8 +1,8 @@
-Repository-Namen
+Weltraum
 
-# Repository -Name
+# Weltraum
 
-> Slugline
+> Orchestrate Terraform, OpenTofu, Ansible, and more to deliver secure, cost-effective, and high-performance infrastructure. Fast.
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ Repository-Namen
 
 **Zusammenfassung**
 
-Text
+Orchestrierung, die sich in Ihr vorhandenes Werkzeug integriert. Überwinden Sie das Automatisierungswerkzeug aus. Stellen Sie alle Ihre Infrastrukturwerkzeuge an und orchestrieren Sie sie. IAC, VCS, Konfigurationsmanagement, Observierbarkeitstools, Steuerlösungen und Cloud -Anbieter - Spacelift stellt eine Verbindung zu allen her, um eine sichere Infrastruktur schneller zu liefern.
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
