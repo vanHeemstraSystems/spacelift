@@ -2,7 +2,7 @@ spacelift
 
 # Spacelift
 
-> Orchestrate Terraform, OpenTofu, Ansible, and more to deliver secure, cost-effective, and high-performance infrastructure. Fast.
+> Orchestrer Terraform, OpenTofu, Ansible, et plus encore pour fournir une infrastructure sécurisée, rentable et haute performance. Rapide.
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
