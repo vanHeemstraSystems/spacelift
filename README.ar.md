@@ -2,7 +2,7 @@ Spacelift
 
 # Spacelift
 
-> تنسيق terraform ، opentofu ، Ansible ، وأكثر من ذلك لتقديم بنية أساسية آمنة وفعالة من حيث التكلفة وعالية الأداء. سريع.
+> Orchestrate Terraform, OpenTofu, Ansible, and more to deliver secure, cost-effective, and high-performance infrastructure. Fast.
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -20,7 +20,7 @@ Spacelift
 
 تزامن يتكامل مع أدواتك الحالية. التغلب على أداة الأتمتة الامتداد. تواصل مع وتنظيم جميع أدوات البنية التحتية الخاصة بك. IAC و VCS وإدارة التكوين وأدوات الملاحظة وحلول التحكم ومقدمي الخدمات السحابية - يتصل Spacelift جميعًا بمساعدتك في تقديم بنية تحتية آمنة بشكل أسرع.
 
-ولدت مع[ريتر](https://app.rytr.me)
+Generated with [ريتر](https://app.rytr.me)
 
 ## 100 - مقدمة
 
